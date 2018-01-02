@@ -1,0 +1,56 @@
+AMAZON.PreviousIntent go back
+AMAZON.PreviousIntent last screen
+AMAZON.PreviousIntent go back to last screen
+AMAZON.PreviousIntent previous
+AMAZON.PreviousIntent previous screen
+AMAZON.PreviousIntent go back to previous
+AMAZON.PreviousIntent go back to previous screen
+AMAZON.PreviousIntent last screen
+AMAZON.PreviousIntent go to last screen
+AMAZON.PreviousIntent go back to last screen
+AMAZON.PreviousIntent show last
+AMAZON.PreviousIntent show last screen
+AMAZON.PreviousIntent show previous
+AMAZON.PreviousIntent show previous screen
+AMAZON.PreviousIntent load last
+AMAZON.PreviousIntent load last screen
+AMAZON.PreviousIntent load previous
+AMAZON.PreviousIntent load previous screen
+selectNumberIntent {ListNumber}
+selectNumberIntent select {ListNumber}
+selectNumberIntent show {ListNumber}
+selectNumberIntent get {ListNumber}
+selectNumberIntent load {ListNumber}
+selectNumberIntent go to {ListNumber}
+selectNumberIntent fetch {ListNumber}
+selectNumberIntent display {ListNumber}
+selectNumberIntent number {ListNumber}
+selectNumberIntent select number {ListNumber}
+selectNumberIntent show number {ListNumber}
+selectNumberIntent get number {ListNumber}
+selectNumberIntent load number {ListNumber}
+selectNumberIntent go to number {ListNumber}
+selectNumberIntent fetch number {ListNumber}
+selectNumberIntent display number {ListNumber}
+selectNumberIntent list number {ListNumber}
+selectNumberIntent select list number {ListNumber}
+selectNumberIntent show list number {ListNumber}
+selectNumberIntent get list number {ListNumber}
+selectNumberIntent load list number {ListNumber}
+selectNumberIntent go to list number {ListNumber}
+selectNumberIntent fetch list number {ListNumber}
+selectNumberIntent display list number {ListNumber}
+selectNumberIntent select item {ListNumber}
+selectNumberIntent show item {ListNumber}
+selectNumberIntent get item {ListNumber}
+selectNumberIntent load item {ListNumber}
+selectNumberIntent go to item {ListNumber}
+selectNumberIntent fetch item {ListNumber}
+selectNumberIntent display item {ListNumber}
+selectNumberIntent select list item {ListNumber}
+selectNumberIntent show list item {ListNumber}
+selectNumberIntent get list item {ListNumber}
+selectNumberIntent load list item {ListNumber}
+selectNumberIntent go to list item {ListNumber}
+selectNumberIntent fetch list item {ListNumber}
+selectNumberIntent display list item {ListNumber}

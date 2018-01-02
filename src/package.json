@@ -1,0 +1,22 @@
+{
+  "name": "VisualTarot",
+  "version": "1.0.0",
+  "description": "Skill written by April L. Hamilton to provide users of Alexa devices with screens a Tarot card encyclopedia and three types of oracle readings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alexa",
+    "skill",
+    "echo show",
+    "oracle",
+    "Tarot"
+  ],
+  "author": "Amazon.com",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "alexa-sdk": "^1.0.12",
+    "voice-insights-sdk": "^1.2.2"
+  }
+}
