@@ -45,12 +45,4 @@ SessionEndedRequest cleanup to address Lambda latency issues
 
 PLEASE SEE LICENSE.TXT FOR USAGE GUIDELINES.
 
-PLEASE SEE THE DEEP DIVE BLOG SERIES ABOUT THIS SKILL ON THE LOVE MY ECHO
-SITE FOR A THOROUGH WALKTHROUGH OF ALL ASPECTS OF THIS SKILL AND ITS CODE.
-THE SERIES BEGINS AT:
-https://lovemyecho.com/2017/12/19/alexadev-tuesday-alexa-display-template-skill-design-and-coding-deep-dive-introduction/
-
-APRIL CAN BE REACHED VIA THE CONTACT FORM ON THE LOVE MY ECHO SITE:
-https://lovemyecho.com/contact-love-my-echo/
-
 
